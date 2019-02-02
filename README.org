@@ -1,0 +1,36 @@
+#+TITLE: README
+#+DATE: 2019/02/02（土）21:34
+#+AUTHOR: ono hiroko
+#+EMAIL: kuanyui@onohiroko-pc
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+
+* Open Recipe
+
+#+BEGIN_QUOTE
+I would rather cook something mess in 10 minutes by my self rather than eat fucking shit crap outside anymore!
+我寧可花十分鐘自己亂煮，也不想再吃外面那些狗屎店家做的ㄆㄨㄣ！
+#+END_QUOTE
+
+This project is for collecting the recipes from my grand mother, and some delicious or special recipes I invited or found from somewhere. I often cook and often forget what I've done, this is also a record of me.
+
+
+* For contributor
+#+BEGIN_QUOTE
+Currently, this project is under developement (or more preciously, writing?) and may not accept contribution. And this is mainly my personal recipe notebook, for efficiency and my precious time, is mainly written in Taiwanese. Sorry.
+#+END_QUOTE
+
+- For each recipe, English verison is required.
+- Too-simple or common-sense recipe should NOT added to this repo. (e.g. noodles with soy source + vinegar + pork + garlic)
+
+* License
+
+All recipes of this project are released under GFDL.

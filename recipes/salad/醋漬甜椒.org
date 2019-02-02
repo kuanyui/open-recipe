@@ -1,0 +1,36 @@
+#+TITLE: 醋漬甜椒
+#+DATE: 2019/02/02（土）21:52
+#+AUTHOR: ono hiroko
+#+EMAIL: kuanyui@onohiroko-pc
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+
+* English
+#+BEGIN_QUOTE
+TODO.
+#+END_QUOTE
+
+* 中文
+** 材料
+- 紅/黃甜椒 - 4 顆
+- 紅酒醋 - 可以蓋過甜椒的量
+- 橄欖油 - 適量
+- 紅胡椒 - 適量
+- 砂糖 - 適量（根據口味自行調整）
+- 巴西利 - 適量
+- 羅勒 - 適量
+
+** 製作
+1. 甜椒用瓦斯爐直火烤熟、外皮焦黑沒關係，烤熟後把焦黑的皮全部搓掉 （或者此步驟直接改成用烤箱烤熟無妨）
+2. 熟的甜椒切條狀，香料切碎、跟剩下所有材料泡在罐子裡，冰進冰箱醃個兩三天即可直接拿來食用。
+
+** 備註
+- 適合搭配 Salami 或生火腿，也可拿來做生菜沙拉、裡面的紅酒醋就是很適合生菜的沙拉醬。
