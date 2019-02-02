@@ -1,0 +1,32 @@
+#+TITLE: 韭菜盒子
+#+DATE: 2019/02/03（日）01:15
+#+AUTHOR: ono hiroko
+#+EMAIL: kuanyui@onohiroko-pc
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+
+* 中文
+外婆做的韭菜盒子也是從小吃到大。老實說我只有吃過外婆做的韭菜盒子，聽說外面賣的都是油去煎，我是已經很習關這種外殼沒有油的韭菜盒子了，我也不太喜歡像蔥油餅那種煎法做出的任何東西，吃多了很噁。
+
+韭菜盒子用到的麵團跟饅頭幾乎一樣，只是水更多一點點讓麵團軟一點。
+
+1200g (2 斤) 中筋麵粉可以做 30 個韭菜盒子。
+
+#+BEGIN_QUOTE
+這個我還沒實際做過，只有先問食譜，也還沒問很清楚。下次再去找外婆學。
+#+END_QUOTE
+
+** TODO 材料 （到底要多少材料）
+- 中筋麵粉 - 1200 g
+- 韭菜 - 憑感覺
+- 雞蛋 - 憑感覺
+- 冬粉 - 憑感覺
+- 豬絞肉 - 憑感覺

@@ -1,0 +1,33 @@
+#+TITLE: 檸檬醋
+#+DATE: 2019/02/03（日）01:22
+#+AUTHOR: ono hiroko
+#+EMAIL: kuanyui@onohiroko-pc
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+
+* 中文
+外婆做的檸檬醋，特殊的檸檬乾的濃烈香味甚至有點酸梅味，直接對水飲用，也可再加蜂蜜。
+
+都在檸檬盛產一顆兩三塊的時候買一堆回來做。
+
+#+BEGIN_QUOTE
+這個我還沒實際做過，只有先問食譜，也還沒問很清楚。下次再去找外婆學
+#+END_QUOTE
+** TODO 時間 （幾天？）
+需要曬乾，數天
+
+** 材料
+- 皮不苦的檸檬（外婆說他都用無籽的啦）
+- 比檸檬總重量略少的冰糖（是蠻好喝的但如果想控制糖攝取量還是自行收斂一下減半之類的吧...）
+- 金門高粱醋（外婆說他用工研醋之類的白醋做過，但那種喝起來喉嚨都會刺）
+
+** TODO 作法
+- 檸檬整顆拿去曬乾（幾天？）
