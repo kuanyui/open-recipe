@@ -1,0 +1,35 @@
+#+TITLE: 涼拌生白菜
+#+DATE: 2019/02/03（日）18:43
+#+AUTHOR: ono hiroko
+#+EMAIL: kuanyui@onohiroko-pc
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+* 中文
+十幾年前在基隆醫院前的一家麵店吃到的（那家現在還在），我們全家都覺得很好吃。我媽就模仿出來，味道87分像，自此我家蠻常有這道涼拌小菜。白菜不須煮過或加熱過，開胃爽口、不加糖但有白菜的清甜。
+
+** 材料
+- 白菜 - 一顆
+- 鹽 - 適量
+- 煮熟的雞肉（白斬雞/燻雞，雞胸/雞腿什麼的都無所謂） - 一碗左右，隨你喜好
+- 香油 - 適量
+- 白醋 - 適量
+- 芫荽末 - 適量
+- 花生仁(乾) - 意思意思丟個幾顆進去（可加可不加無所謂）
+- 豆乾切絲 - 隨你喜好（可加可不加）
+
+** 作法
+1. 雞肉撕碎冷藏備用。
+2. 白菜洗淨，直接切絲後，撒鹽抓一抓，扔到冷藏醃個一小時。
+3. 一小時後，拿出來用手把水分盡量擠出來（才會脆），擠出的水分倒掉，再把剩下所有材料全部加進去攪一攪，冷藏個半天一天隨便你，完成。
+
+#+BEGIN_QUOTE
+喜歡的話要加點大蒜末或辣椒末也可以啦。
+#+END_QUOTE
